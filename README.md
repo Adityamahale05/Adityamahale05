@@ -1,4 +1,4 @@
-TO-DO-LIST-LGM
+TO-DO-LIST-LGM.
 
 <!---
 Adityamahale05/Adityamahale05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
